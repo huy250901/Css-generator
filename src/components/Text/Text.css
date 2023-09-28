@@ -1,0 +1,14 @@
+.text {
+  display: flex;
+  background-color: #a5d3fd;
+  align-items: center;
+  justify-content: center;
+}
+
+.text__text {
+  color: #3d9df6;
+  font-size: 80px;
+  line-height: 1;
+  padding: 30px 0;
+  transition: 0.3s;
+}

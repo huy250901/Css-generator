@@ -1,0 +1,27 @@
+.container-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.colorpicker {
+  display: flex;
+}
+
+.color-preview {
+  border: 1px solid #dfe3e8;
+  padding: 3px;
+  height: 32px;
+  width: 48px;
+  border-radius: 3px;
+}
+
+.react-resizable {
+  width: 229px;
+  height: 168px;
+  margin: 0 auto;
+}
+
+.container-card-section {
+  height: 250px;
+  padding: 40px;
+}
